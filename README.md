@@ -18,7 +18,7 @@ After gathering the raw data, we performed data cleaning procedures to refine th
 Original Dataset Size: 200,000+ entries
 Refined Dataset Size: Approximately 150,000 entries
 
-###Technologies Used
+### Technologies Used
 - Python
 - Beautiful Soup
 - Requests
